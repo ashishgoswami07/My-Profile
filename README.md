@@ -1,4 +1,4 @@
-# 💫 Hi, I'm Ashish Goswami!  
+# Hi, I'm Ashish Goswami!  
 
 🎓 3rd Year BTech Student | 🌥️ Cloud Computing Enthusiast  
 💡 Passionate about solving problems and exploring new technologies  

@@ -10,7 +10,7 @@
 ---
 
 ### 🚀 About Me
-- 🌱 Currently learning **Java, Cloud Computing, and DevOps**  
+- 🌱 Currently learning **Java, Cloud Computing, DSA and DevOps**  
 - 💡 Exploring **Kubernetes, AWS, and Docker**  
 - 🎯 Goal: To become a **Cloud/DevOps Engineer**  
 - 📫 Reach me at **ashishgoswami93746@gmail.com**

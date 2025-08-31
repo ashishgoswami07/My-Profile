@@ -39,7 +39,7 @@
 
 ### 🌐 Connect with me
 <p align="center">
-  <a href="https://github.com/ashishgoswami1">
+  <a href="https://github.com/ashishgoswami07">
     <img src="https://skillicons.dev/icons?i=github" height="40"/>
   </a>
   <a href="mailto:ashishgoswami93746@gmail.com">

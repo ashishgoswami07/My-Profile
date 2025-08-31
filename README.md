@@ -26,18 +26,17 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ashishgoswami1&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ashishgoswami1&layout=compact&theme=radical" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ashishgoswami07&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ashishgoswami07&layout=compact&theme=radical" alt="Top Languages" height="180"/>
 </p>
 
 ---
 
 ### 🔥 Streak Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ashishgoswami1&theme=radical" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=ashishgoswami07&theme=radical" alt="GitHub Streak"/>
 </p>
 
----
 
 ### 🌐 Connect with me
 <p align="center">

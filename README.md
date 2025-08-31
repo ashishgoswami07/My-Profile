@@ -23,6 +23,10 @@
 ## 📊 GitHub Stats  
 
 <h2 align="center">🌟<i>Ashish Goswami GitHub Stats</i>🌟</h2>  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ashishgoswami07/ashishgoswami07/main/gitimage.gif" alt="banner" width="800"/>
+</p>
+
 
 
 

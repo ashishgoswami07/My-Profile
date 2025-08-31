@@ -24,7 +24,8 @@
 
 <h2 align="center">🌟<i>Ashish Goswami GitHub Stats</i>🌟</h2>  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ashishgoswami07/ashishgoswami07/main/gitimage.gif" alt="banner" width="800"/>
+  <img src="![gitimage](https://github.com/user-attachments/assets/9202a69b-16b8-47af-b3cc-4e9263cebe0d)
+"/>
 </p>
 
 

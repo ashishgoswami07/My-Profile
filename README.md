@@ -26,15 +26,15 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashishgoswami1&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishgoswami1&layout=compact&theme=radical" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ashishgoswami1&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ashishgoswami1&layout=compact&theme=radical" alt="Top Languages" height="180"/>
 </p>
 
 ---
 
 ### 🔥 Streak Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashishgoswami1&theme=radical" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=ashishgoswami1&theme=radical" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -47,5 +47,4 @@
   <a href="mailto:ashishgoswami93746@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
   </a>
-  <!-- Add LinkedIn when ready -->
 </p>

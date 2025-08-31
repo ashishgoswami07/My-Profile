@@ -19,7 +19,42 @@
 
 ### 🛠️ Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,aws,docker,kubernetes,linux,git,github,vscode,mysql" />
+  <a href="https://www.java.com/en/">
+    <img src="https://skillicons.dev/icons?i=java" height="50"/>
+  </a>
+  <a href="https://www.python.org/">
+    <img src="https://skillicons.dev/icons?i=python" height="50"/>
+  </a>
+  <a href="https://www.learn-c.org/">
+    <img src="https://skillicons.dev/icons?i=c" height="50"/>
+  </a>
+  <a href="https://isocpp.org/">
+    <img src="https://skillicons.dev/icons?i=cpp" height="50"/>
+  </a>
+  <a href="https://aws.amazon.com/education/awseducate/">
+    <img src="https://skillicons.dev/icons?i=aws" height="50"/>
+  </a>
+  <a href="https://hub.docker.com/u/ashishgoswami07">
+    <img src="https://skillicons.dev/icons?i=docker" height="50"/>
+  </a>
+  <a href="https://kubernetes.io/docs/tutorials/kubernetes-basics/">
+    <img src="https://skillicons.dev/icons?i=kubernetes" height="50"/>
+  </a>
+  <a href="https://www.linux.org/">
+    <img src="https://skillicons.dev/icons?i=linux" height="50"/>
+  </a>
+  <a href="https://git-scm.com/">
+    <img src="https://skillicons.dev/icons?i=git" height="50"/>
+  </a>
+  <a href="https://github.com/ashishgoswami07">
+    <img src="https://skillicons.dev/icons?i=github" height="50"/>
+  </a>
+  <a href="https://code.visualstudio.com/">
+    <img src="https://skillicons.dev/icons?i=vscode" height="50"/>
+  </a>
+  <a href="https://profile.oracle.com/myprofile/account/secure/update-account.jspx">
+    <img src="https://skillicons.dev/icons?i=mysql" height="50"/>
+  </a>
 </p>
 
 ---

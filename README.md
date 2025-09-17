@@ -60,8 +60,8 @@
 ---
 ### 📊 GitHub Stats & Streak
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashishgoswami07&show_icons=true&theme=radical&count_private=true&include_all_commits=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishgoswami07&layout=compact&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ashishgoswami07&show_icons=true&theme=radical&count_private=true&include_all_commits=true&token=YOUR_TOKEN_HERE" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishgoswami07&layout=compact&theme=radical&token=YOUR_TOKEN_HERE" height="180"/>
 </p>
 
 <p align="center">

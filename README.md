@@ -67,7 +67,9 @@
 ---
 
 ### 🔥 Streak Stats
-<p align="center"> <img src="https://streak-stats.demolab.com/?user=ashishgoswami07&theme=radical" alt="GitHub Streak"/> </p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ashishgoswami07&theme=radical" />
+</p>
 
 
 ### 🌐 Connect with me

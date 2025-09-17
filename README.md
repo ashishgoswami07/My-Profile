@@ -60,13 +60,16 @@
 ---
 ### 📊 GitHub Stats & Streak
 <p align="center">
-  <img src="https://your-app-name.vercel.app/api?username=ashishgoswami07&show_icons=true&theme=radical&count_private=true&include_all_commits=true" height="180"/>
-  <img src="https://your-app-name.vercel.app/api/top-langs/?username=ashishgoswami07&layout=compact&theme=radical" height="180"/>
+  <!-- GitHub Stats -->
+  <img src="https://your-app-name.vercel.app/api?username=ashishgoswami07&show_icons=true&theme=radical&count_private=true&include_all_commits=true&token=${{ secrets.PAT_1 }}" height="180"/>
+  
+  <!-- Top Languages -->
+  <img src="https://your-app-name.vercel.app/api/top-langs/?username=ashishgoswami07&layout=compact&theme=radical&token=${{ secrets.PAT_1 }}" height="180"/>
+  
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=ashishgoswami07&theme=radical" height="180" alt="GitHub Streak"/>
 </p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ashishgoswami07&theme=radical" alt="GitHub Streak"/>
-</p>
+>
 
 ### 🌐 Connect with me
 <p align="center">

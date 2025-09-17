@@ -61,10 +61,10 @@
 ### 📊 GitHub Stats & Streak
 <p align="center">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats-swb9.vercel.app/api?username=ashishgoswami07&show_icons=true&theme=radical&count_private=true&include_all_commits=true&token=${{ secrets.PAT_1 }}" height="180"/>
-  
+  <img src="https://github-readme-stats-swb9.vercel.app/api?username=ashishgoswami07&show_icons=true&theme=radical" height="180" alt="GitHub Stats"/>
+
   <!-- Top Languages -->
-  <img src="https://github-readme-stats-swb9.vercel.app/api/top-langs/?username=ashishgoswami07&layout=compact&theme=radical&token=${{ secrets.PAT_1 }}" height="180"/>
+  <img src="https://github-readme-stats-swb9.vercel.app/api/top-langs/?username=ashishgoswami07&layout=compact&theme=radical" height="180" alt="Top Languages"/>
 </p>
 
 <p align="center">

@@ -3,23 +3,23 @@
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="GitHub Banner" width="800"/>
 </p>
 
-<!-- Typing intro -->
+<!-- Intro -->
 <h1 align="center">Hi 👋, I'm Ashish Goswami</h1>
-<h3 align="center">A passionate Engineering student & Cloud enthusiast ☁️</h3>
+<h3 align="center">Engineering Student & Cloud Enthusiast ☁️</h3>
 
 ---
 
 ### 🚀 About Me
-- 🌱 Currently learning **Java, Cloud Computing, DSA and DevOps**  
-- 💡 Exploring **Kubernetes, AWS, and Docker**  
-- 🎯 Goal: To become a **Cloud/DevOps Engineer**  
+- 🌱 Currently learning **Java, Cloud Computing, DSA, and DevOps**
+- 💡 Exploring **AWS, Docker, and Kubernetes**
+- 🎯 Goal: To become a **Cloud / DevOps Engineer**
 - 📫 Reach me at **ashishgoswami93746@gmail.com**
 
 ---
 
 ### 🛠️ Languages & Tools
 <p align="center">
-  <a href="https://www.java.com/en/">
+  <a href="https://www.java.com/">
     <img src="https://skillicons.dev/icons?i=java" height="50"/>
   </a>
   <a href="https://www.python.org/">
@@ -31,13 +31,13 @@
   <a href="https://isocpp.org/">
     <img src="https://skillicons.dev/icons?i=cpp" height="50"/>
   </a>
-  <a href="https://aws.amazon.com/education/awseducate/">
+  <a href="https://aws.amazon.com/">
     <img src="https://skillicons.dev/icons?i=aws" height="50"/>
   </a>
   <a href="https://hub.docker.com/u/ashishgoswami07">
     <img src="https://skillicons.dev/icons?i=docker" height="50"/>
   </a>
-  <a href="https://kubernetes.io/docs/tutorials/kubernetes-basics/">
+  <a href="https://kubernetes.io/">
     <img src="https://skillicons.dev/icons?i=kubernetes" height="50"/>
   </a>
   <a href="https://www.linux.org/">
@@ -52,28 +52,26 @@
   <a href="https://code.visualstudio.com/">
     <img src="https://skillicons.dev/icons?i=vscode" height="50"/>
   </a>
-  <a href="https://profile.oracle.com/myprofile/account/secure/update-account.jspx">
+  <a href="https://www.mysql.com/">
     <img src="https://skillicons.dev/icons?i=mysql" height="50"/>
   </a>
 </p>
 
---
-### 📊 GitHub Stats & Streak
-<p align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats-swb9.vercel.app/api?username=ashishgoswami07&show_icons=true&theme=radical" height="180" alt="GitHub Stats"/>
+---
 
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats-swb9.vercel.app/api/top-langs/?username=ashishgoswami07&layout=compact&theme=radical" height="180" alt="Top Languages"/>
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats-swb9.vercel.app/api?username=ashishgoswami07&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-stats-swb9.vercel.app/api/top-langs/?username=ashishgoswami07&layout=compact&theme=radical" height="180"/>
 </p>
 
 <p align="center">
-  <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=ashishgoswami07&theme=radical" alt="GitHub Streak" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=ashishgoswami07&theme=radical" height="180"/>
 </p>
 
 ---
-### 🌐 Connect with me
+
+### 🌐 Connect With Me
 <p align="center">
   <a href="https://github.com/ashishgoswami07">
     <img src="https://skillicons.dev/icons?i=github" height="40"/>

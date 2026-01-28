@@ -59,18 +59,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats-swb9.vercel.app/api?username=ashishgoswami07&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-stats-swb9.vercel.app/api/top-langs/?username=ashishgoswami07&layout=compact&theme=radical" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ashishgoswami07&theme=radical" height="180"/>
-</p>
-
----
-
 ### 🌐 Connect With Me
 <p align="center">
   <a href="https://github.com/ashishgoswami07">
